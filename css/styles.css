@@ -813,8 +813,10 @@ body{
 
     }
 
-  
-
+    .about__description{
+        text-align: intial;
+    }
+    
     .qualification__container{
         column-gap: 6rem;
     }
