@@ -119,12 +119,13 @@ img {
 .section-title {
   font-size: var(--h1-font-size);
   color: var(--first-color);
-  margin-bottom: var(--mb-3);
+  margin-bottom: var(--mb-4);
 }
 
 .section-subtitle {
   display: block;
   font-size: var(--smaller-font-size);
+  font-weight: var(--font-medium);
 }
 
 /* ===== LAYOUT ===== */
